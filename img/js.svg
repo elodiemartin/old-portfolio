@@ -3,126 +3,147 @@
 <svg version="1.1" id="Calque_3" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 159.5 156.8" style="enable-background:new 0 0 159.5 156.8;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#D46548;}
+	.st0{fill:#2E6674;}
 	.st1{clip-path:url(#SVGID_2_);}
 	.st2{clip-path:url(#SVGID_4_);}
 	.st3{opacity:0.7;}
-	.st4{clip-path:url(#SVGID_6_);fill:#D46548;}
-	.st5{clip-path:url(#SVGID_8_);fill:#FFFFFF;}
+	.st4{clip-path:url(#SVGID_6_);fill:#2E6674;}
+	.st5{clip-path:url(#SVGID_8_);}
 	.st6{clip-path:url(#SVGID_10_);fill:#FFFFFF;}
 	.st7{clip-path:url(#SVGID_12_);fill:#FFFFFF;}
 	.st8{clip-path:url(#SVGID_14_);fill:#FFFFFF;}
-	.st9{clip-path:url(#SVGID_16_);}
+	.st9{clip-path:url(#SVGID_16_);fill:#FFFFFF;}
 	.st10{clip-path:url(#SVGID_18_);}
-	.st11{clip-path:url(#SVGID_20_);fill:#D46548;}
+	.st11{clip-path:url(#SVGID_20_);}
+	.st12{fill:none;}
 </style>
 <rect x="-14" y="-21.1" class="st0" width="189" height="193"/>
 <g>
 	<g>
 		<g>
-			<defs>
-				<rect id="SVGID_1_" x="29.5" y="27.3" width="101.5" height="101.5"/>
-			</defs>
-			<clipPath id="SVGID_2_">
-				<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
-			</clipPath>
-			<g class="st1">
-				<g>
+			<g>
+				<defs>
+					<rect id="SVGID_1_" x="29.5" y="27.3" width="101.5" height="101.5"/>
+				</defs>
+				<clipPath id="SVGID_2_">
+					<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+				</clipPath>
+				<g class="st1">
 					<g>
-						<defs>
-							<rect id="SVGID_3_" x="29.5" y="27.3" width="101.5" height="101.5"/>
-						</defs>
-						<clipPath id="SVGID_4_">
-							<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
-						</clipPath>
-						<g class="st2">
-							<g>
-								<g class="st3">
-									<g>
-										<defs>
-											<rect id="SVGID_5_" x="21.5" y="21.1" width="117.5" height="108.6"/>
-										</defs>
-										<clipPath id="SVGID_6_">
-											<use xlink:href="#SVGID_5_"  style="overflow:visible;"/>
-										</clipPath>
-										<path class="st4" d="M80.2,128.8c28,0,50.8-22.7,50.8-50.8c0-28-22.7-50.8-50.8-50.8S29.5,50,29.5,78.1
-											C29.5,106.1,52.2,128.8,80.2,128.8"/>
-									</g>
-								</g>
-							</g>
-						</g>
-						<g class="st2">
+						<g>
 							<g>
 								<defs>
-									<rect id="SVGID_7_" x="29.5" y="27.3" width="101.5" height="101.5"/>
+									<rect id="SVGID_3_" x="29.5" y="27.3" width="101.5" height="101.5"/>
 								</defs>
-								<clipPath id="SVGID_8_">
-									<use xlink:href="#SVGID_7_"  style="overflow:visible;"/>
+								<clipPath id="SVGID_4_">
+									<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
 								</clipPath>
-								<polygon class="st5" points="66.9,96.6 64,63.9 96.1,63.9 93.1,96.6 80,100.3 								"/>
-							</g>
-							<g>
-								<g>
-									<defs>
-										<rect id="SVGID_9_" x="29.5" y="27.3" width="101.5" height="101.5"/>
-									</defs>
-									<clipPath id="SVGID_10_">
-										<use xlink:href="#SVGID_9_"  style="overflow:visible;"/>
-									</clipPath>
-									<polygon class="st6" points="80,78.7 80,82.7 84.9,82.7 84.5,87.9 80,89.1 80,93.3 88.2,91 88.3,90.3 89.2,79.7 89.3,78.7 
-										88.2,78.7 									"/>
-								</g>
-								<g>
+								<g class="st2">
 									<g>
-										<defs>
-											<rect id="SVGID_11_" x="29.5" y="27.3" width="101.5" height="101.5"/>
-										</defs>
-										<clipPath id="SVGID_12_">
-											<use xlink:href="#SVGID_11_"  style="overflow:visible;"/>
-										</clipPath>
-										<polygon class="st7" points="84.9,58.9 82.7,58.9 85,61.5 85,62.7 80.2,62.7 80.2,61.3 82.5,61.3 80.2,58.7 80.2,57.5 
-											84.9,57.5 										"/>
+										<g>
+											<g class="st3">
+												<g>
+													<defs>
+														<rect id="SVGID_5_" x="21.5" y="21.1" width="117.5" height="108.6"/>
+													</defs>
+													<clipPath id="SVGID_6_">
+														<use xlink:href="#SVGID_5_"  style="overflow:visible;"/>
+													</clipPath>
+													<path class="st4" d="M80.2,128.8c28,0,50.8-22.7,50.8-50.8c0-28-22.7-50.8-50.8-50.8S29.5,50,29.5,78.1
+														C29.5,106.1,52.2,128.8,80.2,128.8"/>
+												</g>
+											</g>
+										</g>
 									</g>
 									<g>
-										<g>
-											<defs>
-												<rect id="SVGID_13_" x="29.5" y="27.3" width="101.5" height="101.5"/>
-											</defs>
-											<clipPath id="SVGID_14_">
-												<use xlink:href="#SVGID_13_"  style="overflow:visible;"/>
-											</clipPath>
-											<polygon class="st8" points="79.7,57.6 79.7,62.7 75.6,62.7 75.6,61 78,61 78,57.6 											"/>
-										</g>
-										<g>
+										<defs>
+											<rect id="SVGID_7_" x="29.5" y="27.3" width="101.5" height="101.5"/>
+										</defs>
+										<clipPath id="SVGID_8_">
+											<use xlink:href="#SVGID_7_"  style="overflow:visible;"/>
+										</clipPath>
+										<g class="st5">
 											<g>
-												<defs>
-													<rect id="SVGID_15_" x="29.5" y="27.3" width="101.5" height="101.5"/>
-												</defs>
-												<clipPath id="SVGID_16_">
-													<use xlink:href="#SVGID_15_"  style="overflow:visible;"/>
-												</clipPath>
-												<g class="st9">
+												<g>
+													<defs>
+														<rect id="SVGID_9_" x="29.5" y="27.3" width="101.5" height="101.5"/>
+													</defs>
+													<clipPath id="SVGID_10_">
+														<use xlink:href="#SVGID_9_"  style="overflow:visible;"/>
+													</clipPath>
+													<polygon class="st6" points="66.9,96.6 64,63.9 96.1,63.9 93.1,96.6 80,100.3 													"/>
+												</g>
+												<g>
 													<g>
 														<g>
 															<defs>
-																<rect id="SVGID_17_" x="29.5" y="27.3" width="101.5" height="101.5"/>
+																<rect id="SVGID_11_" x="29.5" y="27.3" width="101.5" height="101.5"/>
 															</defs>
-															<clipPath id="SVGID_18_">
-																<use xlink:href="#SVGID_17_"  style="overflow:visible;"/>
+															<clipPath id="SVGID_12_">
+																<use xlink:href="#SVGID_11_"  style="overflow:visible;"/>
 															</clipPath>
-															<g class="st10">
+															<polygon class="st7" points="80,78.7 80,82.7 84.9,82.7 84.5,87.9 80,89.1 80,93.3 88.2,91 88.3,90.3 89.2,79.7 
+																89.3,78.7 88.2,78.7 															"/>
+														</g>
+														<g>
+															<g>
 																<g>
-																	<g class="st3">
+																	<defs>
+																		<rect id="SVGID_13_" x="29.5" y="27.3" width="101.5" height="101.5"/>
+																	</defs>
+																	<clipPath id="SVGID_14_">
+																		<use xlink:href="#SVGID_13_"  style="overflow:visible;"/>
+																	</clipPath>
+																	<polygon class="st8" points="84.9,58.9 82.7,58.9 85,61.5 85,62.7 80.2,62.7 80.2,61.3 82.5,61.3 80.2,58.7 
+																		80.2,57.5 84.9,57.5 																	"/>
+																</g>
+																<g>
+																	<g>
 																		<g>
 																			<defs>
-																				<rect id="SVGID_19_" x="63.2" y="61.9" width="34.1" height="32.3"/>
+																				<rect id="SVGID_15_" x="29.5" y="27.3" width="101.5" height="101.5"/>
 																			</defs>
-																			<clipPath id="SVGID_20_">
-																				<use xlink:href="#SVGID_19_"  style="overflow:visible;"/>
+																			<clipPath id="SVGID_16_">
+																				<use xlink:href="#SVGID_15_"  style="overflow:visible;"/>
 																			</clipPath>
-																			<polygon class="st11" points="88.6,68 89.3,76.7 85.3,76.7 84.9,72.3 76.2,72.3 75.6,78.7 89.3,78.7 88.2,91 
-																				80,93.3 71.7,91 71.1,84.7 75.2,84.7 75.5,87.9 80,89.1 84.4,87.9 84.9,82.7 71.1,82.7 72.5,68 
-																																							"/>
+																			<polygon class="st9" points="79.7,57.6 79.7,62.7 75.6,62.7 75.6,61 78,61 78,57.6 																			"/>
+																		</g>
+																		<g>
+																			<g>
+																				<g>
+																					<defs>
+																						<rect id="SVGID_17_" x="29.5" y="27.3" width="101.5" height="101.5"/>
+																					</defs>
+																					<clipPath id="SVGID_18_">
+																						<use xlink:href="#SVGID_17_"  style="overflow:visible;"/>
+																					</clipPath>
+																					<g class="st10">
+																						<g>
+																							<g>
+																								<g>
+																									<defs>
+																										<rect id="SVGID_19_" x="29.5" y="27.3" width="101.5" height="101.5"/>
+																									</defs>
+																									<clipPath id="SVGID_20_">
+																										<use xlink:href="#SVGID_19_"  style="overflow:visible;"/>
+																									</clipPath>
+																									<g class="st11">
+																										<g>
+																											<g class="st3">
+																												<g>
+																													<polygon class="st0" points="88.6,68 89.3,76.7 85.3,76.7 84.9,72.3 76.2,72.3 75.6,78.7 89.3,78.7 
+																														88.2,91 80,93.3 71.7,91 71.1,84.7 75.2,84.7 75.5,87.9 80,89.1 84.4,87.9 84.9,82.7 71.1,82.7 
+																														72.5,68 																													"/>
+																												</g>
+																											</g>
+																										</g>
+																									</g>
+																								</g>
+																							</g>
+																						</g>
+																					</g>
+																				</g>
+																			</g>
 																		</g>
 																	</g>
 																</g>
@@ -142,4 +163,5 @@
 		</g>
 	</g>
 </g>
+<rect x="63.2" y="61.9" class="st12" width="34.1" height="32.3"/>
 </svg>

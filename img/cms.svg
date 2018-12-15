@@ -3,21 +3,24 @@
 <svg version="1.1" id="Calque_3" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 159.5 156.8" style="enable-background:new 0 0 159.5 156.8;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#ABCF83;}
-	.st1{clip-path:url(#SVGID_2_);fill:#ABCF83;}
+	.st0{fill:#2E6674;}
+	.st1{clip-path:url(#SVGID_2_);fill:#2E6674;}
 	.st2{fill:#FFFFFF;}
 </style>
 <rect x="-11.2" y="-19.1" class="st0" width="185.7" height="187"/>
 <g>
 	<g>
 		<g>
-			<defs>
-				<rect id="SVGID_1_" x="-11.2" y="26.3" width="182.9" height="102.2"/>
-			</defs>
-			<clipPath id="SVGID_2_">
-				<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
-			</clipPath>
-			<path class="st1" d="M80.3,128.5c28.2,0,51.1-22.9,51.1-51.1s-22.9-51.1-51.1-51.1S29.2,49.2,29.2,77.4S52.1,128.5,80.3,128.5"/>
+			<g>
+				<defs>
+					<rect id="SVGID_1_" x="-11.2" y="26.3" width="182.9" height="102.2"/>
+				</defs>
+				<clipPath id="SVGID_2_">
+					<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+				</clipPath>
+				<path class="st1" d="M80.3,128.5c28.2,0,51.1-22.9,51.1-51.1s-22.9-51.1-51.1-51.1S29.2,49.2,29.2,77.4S52.1,128.5,80.3,128.5"
+					/>
+			</g>
 		</g>
 	</g>
 </g>

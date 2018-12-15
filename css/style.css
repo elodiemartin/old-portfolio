@@ -47,9 +47,9 @@ h2 {
 	text-align: center;
 	padding: 10px;
     padding-top: 50px;
-	font-size: 2.8em;
+	font-size: 2.6em;
 	color: #72C4BF;
-	line-height: 1.2em;
+	line-height: 1.4em;
 }
 
 h3 {
@@ -198,7 +198,7 @@ h4 {
 .home-fonction {
 	font-family: 'Yantramanav';
 	text-align: center;
-	font-size: 1.4em;
+	font-size: 1.8em;
 	color: #FFFFFF;
 	text-transform: uppercase;
 	padding: 0;
@@ -724,6 +724,7 @@ figure.snip1206.hover figcaption p {
 	border-radius: 50%;
 	margin-right: 10px;
 	margin-bottom: 10px;
+	margin-top: -20px;
 }
 
 .fa-viadeo {
@@ -746,14 +747,14 @@ figure.snip1206.hover figcaption p {
 	padding-right: 4px;
 }
 
-.fa-google-plus-g {
-	font-size: 1.9em;
-	padding: 8px;
+.fa-github {
+	font-size: 2rem;
 	color: #FFFFFF;
-	background: #DC4133;
+	background: #000000;
 	padding-top: 9px;
 	padding-bottom: 9px;
-
+	padding-left: 9.25px;
+	padding-right: 6.75px;
 }
 
 .fa-youtube {
@@ -1105,39 +1106,62 @@ td,th{
 }
 
 .ch-img-3 { 
-	background: url(../img/js.svg);
+	background: url(../img/sass.svg);
 }
+
 .ch-img-4 { 
-	background: url(../img/php.svg);
+	background: url(../img/js.svg);
 }
 
 .ch-img-5 { 
-	background: url(../img/cms.svg);
+	background: url(../img/php.svg);
 }
 
 .ch-img-6 { 
-	background: url(../img/photoshop.svg);
+	background: url(../img/bootstrap.svg);
 }
+
 .ch-img-7 { 
-	background: url(../img/illustrator.svg);
+	background: url(../img/twig.svg);
 }
 
 .ch-img-8 { 
-	background: url(../img/indesign.svg);
+	background: url(../img/mysql.svg);
 }
 
 .ch-img-9 { 
-	background: url(../img/premiere.svg);
+	background: url(../img/cms.svg);
 }
+
 .ch-img-10 { 
-	background: url(../img/after-effects.svg);
+	background: url(../img/git.svg);
 }
 
 .ch-img-11 { 
-	background: url(../img/audition.svg);
+	background: url(../img/photoshop.svg);
 }
 
 .ch-img-12 { 
+	background: url(../img/illustrator.svg);
+}
+
+.ch-img-13 { 
+	background: url(../img/indesign.svg);
+}
+
+.ch-img-14 { 
+	background: url(../img/premiere.svg);
+}
+
+.ch-img-15 { 
+	background: url(../img/after-effects.svg);
+}
+
+.ch-img-16 { 
+	background: url(../img/audition.svg);
+}
+
+.ch-img-17 { 
 	background: url(../img/final-cut.svg);
 }
 
@@ -1175,9 +1199,6 @@ td,th{
 	height: 100px;
 	font-family: 'Yantramanav';
 	font-weight: bold;
-	text-shadow: 
-		0 0 1px #fff, 
-		0 1px 2px rgba(0,0,0,0.3);
 }
 
 .petit {
@@ -1190,14 +1211,13 @@ td,th{
 	padding: 15px 5px;
 	font-style: italic;
 	margin: 0 30px;
-	font-size: 14px;
+	font-size: 15px;
 	border-top: 1px solid rgba(255,255,255,0.5);
-	text-shadow: 1px 2px 3px rgba(0,0,0, 0.5);
 }
 
 .ch-item:hover {
 	box-shadow: 
-		inset 0 0 0 110px rgba(0,169,168, 0.5),
+		inset 0 0 0 110px rgba(0,169,168, 0.9),
 		inset 0 0 0 16px rgba(255,255,255,0.8),
 		0 1px 2px rgba(0,0,0,0.1);
 }
