@@ -1,7 +1,7 @@
-# elodie-martin
+# old-portfolio
 
-Personal website
+Old version of personal website
 
 ## Demo
 
-Do you want to see the website? Visit http://elodie-martin.com/
+Do you want to see the website? Visit https://portfolio.elodie-martin.com/
