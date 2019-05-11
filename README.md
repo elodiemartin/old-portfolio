@@ -1,4 +1,4 @@
-# old-portfolio
+# Old portfolio
 
 Old version of personal website
 
